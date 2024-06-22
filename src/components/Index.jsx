@@ -4,7 +4,7 @@ import Footer from "./Footer"
 
 const Index = () => {
   return (
-    <div className="">
+    <div className="h-[auto]">
         <Navbar/>
         <Carousel/>
         <Footer/>
